@@ -1,0 +1,4 @@
+ICS_URL=https://outlook..../calendar.ics
+ALERT_MINUTES=15,10,5,0
+ICS_UPDATE_INTERVAL=20
+DISCORD_WEBHOOK_URL=https://discordapp.com/api/webhooks/...
