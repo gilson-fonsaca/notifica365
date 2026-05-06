@@ -4,6 +4,12 @@ Programa de notificações de calendário para Linux que lê uma agenda do **Mic
 
 Devido às restrições impostas pela Microsoft ao ambiente Linux, as agendas de reuniões nem sempre são exibidas nas notificações da interface gráfica. Este programa elimina este problema enviando ao Discord todas as agendas de reuniões que chegam ao Outlook.
 
+## Support
+
+If this extension helps you, consider buying me a coffee:
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/Gilsonf)
+
 ## Como funciona
 
 1. Baixa o arquivo ICS da URL configurada (com cache local para evitar requisições excessivas).
